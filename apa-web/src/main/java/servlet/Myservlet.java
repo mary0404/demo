@@ -9,7 +9,7 @@ import java.io.IOException;
 public class Myservlet implements javax.servlet.Servlet{
     @Override
     public void init(ServletConfig servletConfig) throws ServletException {
-    // int  a;
+    // int    a;
     }
 
     @Override
